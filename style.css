@@ -1,0 +1,52 @@
+.main-container
+{
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+}
+
+.form-container
+{
+    flex-direction: column;
+    width: 20%;
+    height: auto;
+}
+
+.form-container input
+{
+    width: 100%;
+}
+
+.form-container button
+{
+    margin: 10px 0 20px 0;
+}
+
+.nota-aprobada
+{
+    color: rgb(7, 218, 7);
+}
+
+.nota-desaprobada
+{
+    color: red;
+}
+
+.buttons-container button
+{
+    margin: 0 5px 0 5px;
+    width: 200px;
+}
+
+.cards-container
+{
+    width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+}
+
+.cards-container .card
+{
+    margin: 20px 0 0 0;
+}
+

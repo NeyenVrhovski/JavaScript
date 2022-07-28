@@ -1,0 +1,80 @@
+[
+    {
+        "nombre": "Neyen",
+        "apellido": "Vrhovski",
+        "dni": "44640738",
+        "nota": "8"
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Gonzales",
+        "dni": "44540438",
+        "nota": "2"
+    },
+    {
+        "nombre": "Jose",
+        "apellido": "Mendez",
+        "dni": "12346543",
+        "nota": "1"
+    },
+    {
+        "nombre": "Nestor",
+        "apellido": "Ortigoza",
+        "dni": "65474532",
+        "nota": "10"
+    },
+    {
+        "nombre": "Augusto",
+        "apellido": "Cozzi",
+        "dni": "44210953",
+        "nota": "4"
+    },
+    {
+        "nombre": "Mariano",
+        "apellido": "Perez",
+        "dni": "11435432",
+        "nota": "1"
+    },
+    {
+        "nombre": "Fernando",
+        "apellido": "Dilger",
+        "dni": "12443245",
+        "nota": "6"
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Fernandez",
+        "dni": "65789087",
+        "nota": "8"
+    },
+    {
+        "nombre": "Axel",
+        "apellido": "Giraud",
+        "dni": "12546753",
+        "nota": "9"
+    },
+    {
+        "nombre": "Luciano",
+        "apellido": "Rud",
+        "dni": "12457543",
+        "nota": "3"
+    },
+    {
+        "nombre": "Gerardo",
+        "apellido": "Bolzani",
+        "dni": "12567854",
+        "nota": "2"
+    },
+    {
+        "nombre": "Gaston",
+        "apellido": "Gonzales",
+        "dni": "12567854",
+        "nota": "8"
+    },
+    {
+        "nombre": "Travis",
+        "apellido": "Angelico",
+        "dni": "44325467",
+        "nota": "8"
+    }
+]

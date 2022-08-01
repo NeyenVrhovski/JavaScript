@@ -147,14 +147,9 @@ const renderCards = (array) =>
 // Al cargar la pagina, me traigo el array de alumnos del storage y renderizo las cards que hagan falta
 
 const handleStorage = () => {
-    // jsonNotas = localStorage.getItem('contenedorNotas');
-    // jsonNotas == null ? contenedorNotas = [] : contenedorNotas = JSON.parse(jsonNotas);
-    fetch('/data.json')
-        .then( (res) => res.json())
-        .then ( (contenedorNotas) => {
-            renderCards(contenedorNotas);
-        })
-        .catch((err) => console.log(err))
+    jsonNotas = localStorage.getItem('contenedorNotas');
+    jsonNotas == null ? contenedorNotas = [] : contenedorNotas = JSON.parse(jsonNotas);
+    renderCards(contenedorNotas);
 }
 
 document.body.onload = handleStorage;
